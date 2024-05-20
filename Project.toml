@@ -1,0 +1,10 @@
+name = "ITerm2Images"
+uuid = "9348d769-4460-4e86-9927-452f530f5601"
+authors = ["Erik Schnetter <schnetter@gmail.com>"]
+version = "1.0.0"
+
+[deps]
+Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
+
+[compat]
+julia = "1.6"
