@@ -2,7 +2,7 @@
 
 * [![GitHub
   CI](https://github.com/eschnett/ITerm2Images.jl/workflows/CI/badge.svg)](https://github.com/eschnett/ITerm2Images.jl/actions)
-* [![codecov](https://codecov.io/gh/eschnett/ITerm2Images.jl/branch/master/graph/badge.svg?token=6JBYLRAD2X)](https://codecov.io/gh/eschnett/ITerm2Images.jl)
+* [![codecov](https://codecov.io/gh/eschnett/ITerm2Images.jl/branch/main/graph/badge.svg?token=6JBYLRAD2X)](https://codecov.io/gh/eschnett/ITerm2Images.jl)
 
 This is a Julia package to display graphics inline on terminals that
 support [iTerm2](https://iterm2.com/documentation-images.html) inline
@@ -30,7 +30,7 @@ For some reason, Plots.jl adds its own display to the stack, so we need the ITer
 display added last.
 
 This is how things look in iTerm2:
-<img src="https://raw.githubusercontent.com/eschnett/ITerm2Images.jl/master/demo.png" width=900px></img>
+<img src="https://raw.githubusercontent.com/eschnett/ITerm2Images.jl/main/demo.png" width=900px></img>
 
 ## Acknowledgements
 
