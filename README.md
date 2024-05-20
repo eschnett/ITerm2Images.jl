@@ -13,7 +13,8 @@ optimized for [iTerm2](https://iterm2.com) terminals.
 The main advantage of this approach is having usable graphics on
 remote connections without having to mess with X or other remote
 display connections. This works for Julia running on many remote
-platforms.
+platforms. It also supports the [tmux](tmux.github.io) terminal
+multiplexer.
 
 ## Examples
 
