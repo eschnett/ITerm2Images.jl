@@ -30,7 +30,7 @@ For some reason, Plots.jl adds its own display to the stack, so we need the ITer
 display added last.
 
 This is how things look in iTerm2:
-<img src="https://raw.githubusercontent.com/eschnett/ITerm2Images.jl/main/demo.png" width=900px></img>
+<img src="https://raw.githubusercontent.com/eschnett/ITerm2Images.jl/main/demo-makie.png" width=900px></img>
 
 ## Acknowledgements
 
